@@ -1,6 +1,10 @@
 body
 {
-    color:lawngreen;
+    color:black;
     text-align: center;
     font-family: "Arial";
+}
+#post
+{
+    padding: 1em;
 }
